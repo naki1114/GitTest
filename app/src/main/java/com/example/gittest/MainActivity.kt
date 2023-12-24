@@ -15,12 +15,15 @@ class MainActivity : AppCompatActivity() {
 
         tv = findViewById(R.id.tv)
 
-        tv.text = "Oscar World"
+        nakiTest4()
+
         // 대충 주석 추가
 
         // naki test3
         // 테스트테스트테스트테스트테스트
         //테스트테스트테스트테스트테스트테스트
+
+        nakiTest7()
 
     }
 
