@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         tv = findViewById(R.id.tv)
 
         tv.text = "Oscar World"
+        // 대충 주석 추가
     }
 }
