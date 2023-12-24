@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
 
         tv.text = "Oscar World"
         // 대충 주석 추가
+
+        // 두번째 주석을 추가해버렷
+
         // naki test3
 
     }
