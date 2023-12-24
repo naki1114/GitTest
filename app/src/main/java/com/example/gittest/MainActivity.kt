@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         tv = findViewById(R.id.tv)
 
         // branch test1
+        // branch test2
 
     }
 
