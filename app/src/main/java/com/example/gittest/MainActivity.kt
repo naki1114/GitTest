@@ -26,7 +26,12 @@ class MainActivity : AppCompatActivity() {
 
     // naki test4
     fun nakiTest4() {
-        tv.text = "Naki"
+        tv.text = "Naki4"
+    }
+
+    // naki test5
+    fun nakiTest5() {
+        tv.text = "Naki5"
     }
 
 }
