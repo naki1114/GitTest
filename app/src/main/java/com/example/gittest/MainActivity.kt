@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
         // 대충 주석 추가
 
         // naki test3
+        // 테스트테스트테스트테스트테스트
+        //테스트테스트테스트테스트테스트테스트
 
     }
 
