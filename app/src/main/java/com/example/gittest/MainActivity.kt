@@ -32,4 +32,9 @@ class MainActivity : AppCompatActivity() {
         tv.text = "Naki5"
     }
 
+    // naki test7
+    fun nakiTest7() {
+        tv.text = "Naki7"
+    }
+
 }
